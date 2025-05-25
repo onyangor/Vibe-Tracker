@@ -42,7 +42,7 @@ Join us in making real-world impact with rhythm and purpose!
 
 # Vibe Tracker
 
-A simple expense tracker built with HTML, CSS, and JavaScript.
+A simple expense tracker built with HTML, CSS, JavaScript and firebase. 
 
 👉 **Live Demo:** [https://onyangor.github.io/Vibe-Tracker/](https://onyangor.github.io/Vibe-Tracker/)
 
