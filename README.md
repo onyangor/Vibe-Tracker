@@ -39,3 +39,10 @@ This project is a testament to the power of the #1MillionDevs Movement, driven b
 8. Call to Action: Let's Build a Financially Empowered Community! 
 We invite you to experience Vibe Tracker and provide feedback. Together, we can help small businesses thrive and build a more financially inclusive world.
 Join us in making real-world impact with rhythm and purpose!
+
+# Vibe Tracker
+
+A simple expense tracker built with HTML, CSS, and JavaScript.
+
+👉 **Live Demo:** [https://onyangor.github.io/Vibe-Tracker/](https://onyangor.github.io/Vibe-Tracker/)
+
